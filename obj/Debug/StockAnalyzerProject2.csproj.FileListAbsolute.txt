@@ -1,0 +1,211 @@
+C:\Users\akhil\OneDrive\Desktop\Akif\StockAnalyzerProject2\bin\Debug\StockAnalyzerProject2.exe.config
+C:\Users\akhil\OneDrive\Desktop\Akif\StockAnalyzerProject2\bin\Debug\StockAnalyzerProject2.exe
+C:\Users\akhil\OneDrive\Desktop\Akif\StockAnalyzerProject2\bin\Debug\StockAnalyzerProject2.pdb
+C:\Users\akhil\OneDrive\Desktop\Akif\StockAnalyzerProject2\bin\Debug\CsvHelper.dll
+C:\Users\akhil\OneDrive\Desktop\Akif\StockAnalyzerProject2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\akhil\OneDrive\Desktop\Akif\StockAnalyzerProject2\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\akhil\OneDrive\Desktop\Akif\StockAnalyzerProject2\bin\Debug\System.Buffers.dll
+C:\Users\akhil\OneDrive\Desktop\Akif\StockAnalyzerProject2\bin\Debug\System.Memory.dll
+C:\Users\akhil\OneDrive\Desktop\Akif\StockAnalyzerProject2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\akhil\OneDrive\Desktop\Akif\StockAnalyzerProject2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\akhil\OneDrive\Desktop\Akif\StockAnalyzerProject2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\akhil\OneDrive\Desktop\Akif\StockAnalyzerProject2\bin\Debug\CsvHelper.xml
+C:\Users\akhil\OneDrive\Desktop\Akif\StockAnalyzerProject2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\akhil\OneDrive\Desktop\Akif\StockAnalyzerProject2\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\akhil\OneDrive\Desktop\Akif\StockAnalyzerProject2\bin\Debug\System.Buffers.xml
+C:\Users\akhil\OneDrive\Desktop\Akif\StockAnalyzerProject2\bin\Debug\System.Memory.xml
+C:\Users\akhil\OneDrive\Desktop\Akif\StockAnalyzerProject2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\akhil\OneDrive\Desktop\Akif\StockAnalyzerProject2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\akhil\OneDrive\Desktop\Akif\StockAnalyzerProject2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\akhil\OneDrive\Desktop\Akif\StockAnalyzerProject2\obj\Debug\StockAnalyzerProject2.csproj.AssemblyReference.cache
+C:\Users\akhil\OneDrive\Desktop\Akif\StockAnalyzerProject2\obj\Debug\StockAnalyzerProject2.csproj.SuggestedBindingRedirects.cache
+C:\Users\akhil\OneDrive\Desktop\Akif\StockAnalyzerProject2\obj\Debug\StockAnalyzerProject2.Form1.resources
+C:\Users\akhil\OneDrive\Desktop\Akif\StockAnalyzerProject2\obj\Debug\StockAnalyzerProject2.Form2.resources
+C:\Users\akhil\OneDrive\Desktop\Akif\StockAnalyzerProject2\obj\Debug\StockAnalyzerProject2.Properties.Resources.resources
+C:\Users\akhil\OneDrive\Desktop\Akif\StockAnalyzerProject2\obj\Debug\StockAnalyzerProject2.csproj.GenerateResource.cache
+C:\Users\akhil\OneDrive\Desktop\Akif\StockAnalyzerProject2\obj\Debug\StockAnalyzerProject2.csproj.CoreCompileInputs.cache
+C:\Users\akhil\OneDrive\Desktop\Akif\StockAnalyzerProject2\obj\Debug\StockAnalyzerProject2.csproj.CopyComplete
+C:\Users\akhil\OneDrive\Desktop\Akif\StockAnalyzerProject2\obj\Debug\StockAnalyzerProject2.exe
+C:\Users\akhil\OneDrive\Desktop\Akif\StockAnalyzerProject2\obj\Debug\StockAnalyzerProject2.pdb
+C:\Users\akifu\OneDrive\Documents\Downloads\AK\StockAnalyzerProject2\StockAnalyzerProject2\bin\Debug\StockAnalyzerProject2.exe.config
+C:\Users\akifu\OneDrive\Documents\Downloads\AK\StockAnalyzerProject2\StockAnalyzerProject2\bin\Debug\StockAnalyzerProject2.exe
+C:\Users\akifu\OneDrive\Documents\Downloads\AK\StockAnalyzerProject2\StockAnalyzerProject2\bin\Debug\StockAnalyzerProject2.pdb
+C:\Users\akifu\OneDrive\Documents\Downloads\AK\StockAnalyzerProject2\StockAnalyzerProject2\bin\Debug\CsvHelper.dll
+C:\Users\akifu\OneDrive\Documents\Downloads\AK\StockAnalyzerProject2\StockAnalyzerProject2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\akifu\OneDrive\Documents\Downloads\AK\StockAnalyzerProject2\StockAnalyzerProject2\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\akifu\OneDrive\Documents\Downloads\AK\StockAnalyzerProject2\StockAnalyzerProject2\bin\Debug\System.Buffers.dll
+C:\Users\akifu\OneDrive\Documents\Downloads\AK\StockAnalyzerProject2\StockAnalyzerProject2\bin\Debug\System.Memory.dll
+C:\Users\akifu\OneDrive\Documents\Downloads\AK\StockAnalyzerProject2\StockAnalyzerProject2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\akifu\OneDrive\Documents\Downloads\AK\StockAnalyzerProject2\StockAnalyzerProject2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\akifu\OneDrive\Documents\Downloads\AK\StockAnalyzerProject2\StockAnalyzerProject2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\akifu\OneDrive\Documents\Downloads\AK\StockAnalyzerProject2\StockAnalyzerProject2\bin\Debug\CsvHelper.xml
+C:\Users\akifu\OneDrive\Documents\Downloads\AK\StockAnalyzerProject2\StockAnalyzerProject2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\akifu\OneDrive\Documents\Downloads\AK\StockAnalyzerProject2\StockAnalyzerProject2\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\akifu\OneDrive\Documents\Downloads\AK\StockAnalyzerProject2\StockAnalyzerProject2\bin\Debug\System.Buffers.xml
+C:\Users\akifu\OneDrive\Documents\Downloads\AK\StockAnalyzerProject2\StockAnalyzerProject2\bin\Debug\System.Memory.xml
+C:\Users\akifu\OneDrive\Documents\Downloads\AK\StockAnalyzerProject2\StockAnalyzerProject2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\akifu\OneDrive\Documents\Downloads\AK\StockAnalyzerProject2\StockAnalyzerProject2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\akifu\OneDrive\Documents\Downloads\AK\StockAnalyzerProject2\StockAnalyzerProject2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\akifu\OneDrive\Documents\Downloads\AK\StockAnalyzerProject2\StockAnalyzerProject2\obj\Debug\StockAnalyzerProject2.csproj.AssemblyReference.cache
+C:\Users\akifu\OneDrive\Documents\Downloads\AK\StockAnalyzerProject2\StockAnalyzerProject2\obj\Debug\StockAnalyzerProject2.csproj.SuggestedBindingRedirects.cache
+C:\Users\akifu\OneDrive\Documents\Downloads\AK\StockAnalyzerProject2\StockAnalyzerProject2\obj\Debug\StockAnalyzerProject2.Form1.resources
+C:\Users\akifu\OneDrive\Documents\Downloads\AK\StockAnalyzerProject2\StockAnalyzerProject2\obj\Debug\StockAnalyzerProject2.Form2.resources
+C:\Users\akifu\OneDrive\Documents\Downloads\AK\StockAnalyzerProject2\StockAnalyzerProject2\obj\Debug\StockAnalyzerProject2.Properties.Resources.resources
+C:\Users\akifu\OneDrive\Documents\Downloads\AK\StockAnalyzerProject2\StockAnalyzerProject2\obj\Debug\StockAnalyzerProject2.csproj.GenerateResource.cache
+C:\Users\akifu\OneDrive\Documents\Downloads\AK\StockAnalyzerProject2\StockAnalyzerProject2\obj\Debug\StockAnalyzerProject2.csproj.CoreCompileInputs.cache
+C:\Users\akifu\OneDrive\Documents\Downloads\AK\StockAnalyzerProject2\StockAnalyzerProject2\obj\Debug\StockAnalyzerProject2.csproj.CopyComplete
+C:\Users\akifu\OneDrive\Documents\Downloads\AK\StockAnalyzerProject2\StockAnalyzerProject2\obj\Debug\StockAnalyzerProject2.exe
+C:\Users\akifu\OneDrive\Documents\Downloads\AK\StockAnalyzerProject2\StockAnalyzerProject2\obj\Debug\StockAnalyzerProject2.pdb
+C:\COP project\StockAnalyzerProject2\bin\Debug\StockAnalyzerProject2.exe.config
+C:\COP project\StockAnalyzerProject2\bin\Debug\StockAnalyzerProject2.exe
+C:\COP project\StockAnalyzerProject2\bin\Debug\StockAnalyzerProject2.pdb
+C:\COP project\StockAnalyzerProject2\bin\Debug\CsvHelper.dll
+C:\COP project\StockAnalyzerProject2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\COP project\StockAnalyzerProject2\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\COP project\StockAnalyzerProject2\bin\Debug\System.Buffers.dll
+C:\COP project\StockAnalyzerProject2\bin\Debug\System.Memory.dll
+C:\COP project\StockAnalyzerProject2\bin\Debug\System.Numerics.Vectors.dll
+C:\COP project\StockAnalyzerProject2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\COP project\StockAnalyzerProject2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\COP project\StockAnalyzerProject2\bin\Debug\CsvHelper.xml
+C:\COP project\StockAnalyzerProject2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\COP project\StockAnalyzerProject2\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\COP project\StockAnalyzerProject2\bin\Debug\System.Buffers.xml
+C:\COP project\StockAnalyzerProject2\bin\Debug\System.Memory.xml
+C:\COP project\StockAnalyzerProject2\bin\Debug\System.Numerics.Vectors.xml
+C:\COP project\StockAnalyzerProject2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\COP project\StockAnalyzerProject2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\COP project\StockAnalyzerProject2\obj\Debug\StockAnalyzerProject2.csproj.AssemblyReference.cache
+C:\COP project\StockAnalyzerProject2\obj\Debug\StockAnalyzerProject2.csproj.SuggestedBindingRedirects.cache
+C:\COP project\StockAnalyzerProject2\obj\Debug\StockAnalyzerProject2.Form1.resources
+C:\COP project\StockAnalyzerProject2\obj\Debug\StockAnalyzerProject2.Properties.Resources.resources
+C:\COP project\StockAnalyzerProject2\obj\Debug\StockAnalyzerProject2.csproj.GenerateResource.cache
+C:\COP project\StockAnalyzerProject2\obj\Debug\StockAnalyzerProject2.csproj.CoreCompileInputs.cache
+C:\COP project\StockAnalyzerProject2\obj\Debug\StockAnalyzerProject2.csproj.CopyComplete
+C:\COP project\StockAnalyzerProject2\obj\Debug\StockAnalyzerProject2.exe
+C:\COP project\StockAnalyzerProject2\obj\Debug\StockAnalyzerProject2.pdb
+F:\Downloads\tempAkif\StockAnalyzerProject2\obj\Debug\StockAnalyzerProject2.exe.config
+F:\Downloads\tempAkif\StockAnalyzerProject2\obj\Debug\StockAnalyzerProject2.Form1.resources
+F:\Downloads\tempAkif\StockAnalyzerProject2\obj\Debug\StockAnalyzerProject2.Form2.resources
+F:\Downloads\tempAkif\StockAnalyzerProject2\obj\Debug\StockAnalyzerProject2.Properties.Resources.resources
+F:\Downloads\tempAkif\StockAnalyzerProject2\obj\Debug\StockAnalyzerProject2.csproj.GenerateResource.cache
+F:\Downloads\tempAkif\StockAnalyzerProject2\obj\Debug\StockAnalyzerProject2.csproj.CoreCompileInputs.cache
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\StockAnalyzerProject2.exe.config
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\StockAnalyzerProject2.exe
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\StockAnalyzerProject2.pdb
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\Microsoft.Win32.Primitives.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\netstandard.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.AppContext.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Collections.Concurrent.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Collections.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Collections.NonGeneric.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Collections.Specialized.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.ComponentModel.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.ComponentModel.Primitives.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.ComponentModel.TypeConverter.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Console.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Data.Common.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Diagnostics.Contracts.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Diagnostics.Debug.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Diagnostics.Process.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Diagnostics.StackTrace.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Diagnostics.Tools.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Diagnostics.TraceSource.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Diagnostics.Tracing.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Drawing.Primitives.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Dynamic.Runtime.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Globalization.Calendars.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Globalization.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Globalization.Extensions.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.IO.Compression.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.IO.Compression.ZipFile.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.IO.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.IO.FileSystem.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.IO.FileSystem.Primitives.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.IO.FileSystem.Watcher.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.IO.IsolatedStorage.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.IO.MemoryMappedFiles.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.IO.Pipes.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Linq.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Linq.Expressions.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Linq.Parallel.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Linq.Queryable.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Net.Http.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Net.NameResolution.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Net.NetworkInformation.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Net.Ping.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Net.Primitives.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Net.Requests.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Net.Security.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Net.Sockets.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Net.WebHeaderCollection.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Net.WebSockets.Client.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Net.WebSockets.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.ObjectModel.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Reflection.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Reflection.Extensions.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Reflection.Primitives.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Resources.Reader.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Resources.ResourceManager.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Resources.Writer.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Runtime.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Runtime.Extensions.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Runtime.Handles.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Runtime.InteropServices.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Runtime.Numerics.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Runtime.Serialization.Formatters.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Runtime.Serialization.Json.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Runtime.Serialization.Primitives.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Runtime.Serialization.Xml.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Security.Claims.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Security.Cryptography.Algorithms.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Security.Cryptography.Csp.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Security.Cryptography.Encoding.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Security.Cryptography.Primitives.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Security.Principal.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Security.SecureString.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Text.Encoding.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Text.Encoding.Extensions.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Text.RegularExpressions.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Threading.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Threading.Overlapped.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Threading.Tasks.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Threading.Tasks.Parallel.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Threading.Thread.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Threading.ThreadPool.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Threading.Timer.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.ValueTuple.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Xml.ReaderWriter.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Xml.XDocument.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Xml.XmlDocument.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Xml.XmlSerializer.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Xml.XPath.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Xml.XPath.XDocument.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\CsvHelper.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\Microsoft.Bcl.HashCode.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Buffers.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Memory.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Numerics.Vectors.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\CsvHelper.xml
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\Microsoft.Bcl.HashCode.xml
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Buffers.xml
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Memory.xml
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Numerics.Vectors.xml
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Downloads\tempAkif\StockAnalyzerProject2\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Downloads\tempAkif\StockAnalyzerProject2\obj\Debug\StockAnalyzerProject2.csproj.CopyComplete
+F:\Downloads\tempAkif\StockAnalyzerProject2\obj\Debug\StockAnalyzerProject2.exe
+F:\Downloads\tempAkif\StockAnalyzerProject2\obj\Debug\StockAnalyzerProject2.pdb
+C:\COP project\StockAnalyzerProject2\obj\Debug\StockAnalyzerProject2.Form2.resources
